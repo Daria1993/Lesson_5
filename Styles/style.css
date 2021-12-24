@@ -8,7 +8,7 @@
   color: #000;
 }
 .header-section {
-  background-color: #f9f7e8;
+  background-color: #daabd2;
 }
 .about-content {
   display: flex;
@@ -34,7 +34,7 @@
   -webkit-text-stroke: 1px #000000;
 }
 .section__logo-item:first-child {
-  color: #62bfad;
+  color: #bf68c7;
 }
 .header-section__menu {
   justify-content: flex-start;
@@ -45,7 +45,7 @@
 .main-section {
 }
 .hero-section {
-  background-color: #d52047;
+  background-color: #9320d5;
   margin: 0 auto;
 }
 .hero-section-title {
@@ -66,7 +66,7 @@
   background-color: #eff8f6;
 }
 .about-section__title {
-  color: #d52047;
+  color: #460f66;
   padding: 95px 0 40px 0;
   font-weight: 700;
   font-size: 48px;
